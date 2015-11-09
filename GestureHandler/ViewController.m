@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "GestureHandler.h"
 @interface ViewController ()
 
 @end
@@ -17,6 +17,11 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    [GestureHandler tapGestureWithObject:self.view
+                                 handler:^
+    {
+        NSLog(@"tap");
+    }];
 }
 
 - (void)didReceiveMemoryWarning {

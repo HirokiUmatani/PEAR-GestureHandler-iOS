@@ -1,0 +1,28 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A3D98E775D98B8E25D7D8B81C7152ACDCABFF166",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A3D98E775D98B8E25D7D8B81C7152ACDCABFF166" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AA63AD6C-94E9-415F-967B-7C70B80255E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A3D98E775D98B8E25D7D8B81C7152ACDCABFF166" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GestureHandler",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GestureHandler.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:HirokiUmatani\/PEAR-GestureHandler-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3D98E775D98B8E25D7D8B81C7152ACDCABFF166"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:HirokiUmatani\/PEAR-GestureHandler-iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A3D98E775D98B8E25D7D8B81C7152ACDCABFF166"
+    }
+  ]
+}
